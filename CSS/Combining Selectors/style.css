@@ -1,0 +1,18 @@
+h1,h2{
+    color: red;
+}
+div>p{
+    color: yellow;
+}
+.list>li{
+    color: green;
+}
+.list>.done{
+    color: red;
+}
+ul>p{
+    color: brown;
+}
+p{
+    color: blue;
+}
